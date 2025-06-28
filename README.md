@@ -7,7 +7,7 @@ This project demonstrates product listing, cart functionality, and global state 
 
 ## 🔗 Live Demo
 
-🌐 **[View Live]**
+🌐 **[View Live]**   https://reactreduxshopcart.netlify.app/
 
 ---
 
