@@ -1,12 +1,34 @@
-# React + Vite
+# 🛒 ShopCart – React + Redux + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An eCommerce cart simulation built using **React**, **Redux Toolkit**, and **Tailwind CSS**. 
+This project demonstrates product listing, cart functionality, and global state management with Redux.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+🌐 **[View Live]**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 🛍️ Product listing with "Add to Cart"
+- 🧺 View and manage cart items
+- ➕ Increase/decrease item quantity
+- ❌ Remove items from cart
+- 🧠 Global state managed with Redux Toolkit
+- 💅 Styled using Tailwind CSS
+- 📱 Fully responsive UI
+
+---
+
+## 🧱 Tech Stack
+
+- ⚛️ React (Functional Components + Hooks)
+- 🧩 Redux Toolkit (`@reduxjs/toolkit`)
+- 🎯 React-Redux
+- 🎨 Tailwind CSS
+- 📦 Vite 
+
+---
